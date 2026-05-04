@@ -1,0 +1,3 @@
+saba ,23,nalaiki
+soniya,10,kaamo
+kashif,23,kop
